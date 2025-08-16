@@ -27,9 +27,9 @@ Transforming complex data into actionable insights & scalable applications
 ---
 
 ## 📌 Featured Projects
-- [**UrbanSound8K Classification**](https://github.com/YOUR_USERNAME/UrbanSound8K-Classification) → Deep learning for sound classification
-- [**Netflix Data Analysis**](https://github.com/YOUR_USERNAME/netflix-project) → Insights from Netflix viewing trends
-- [**Healthcare API Case Study**](https://github.com/YOUR_USERNAME/healthcare-api-case-study) → Data-driven healthcare API project
+- [**UrbanSound8K Classification**](https://github.com/TabashuMekkunnilThulasi/UrbanSound8K-Classification) → Deep learning for sound classification
+- [**Netflix Data Analysis**](https://github.com/TabashuMekkunnilThulasi/netflix-project) → Insights from Netflix viewing trends
+- [**Healthcare API Case Study**](https://github.com/TabashuMekkunnilThulasi/healthcare-api-case-study) → Data-driven healthcare API project
 
 ---
 
